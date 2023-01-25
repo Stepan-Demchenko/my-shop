@@ -1,0 +1,6 @@
+# Folders
+node_modules
+dist
+
+# Src
+src/styles/base/generic.reset.scss
